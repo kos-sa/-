@@ -4,7 +4,6 @@ import speech_recognition as sr
 import os
 from fuzzywuzzy import fuzz
 import datetime
-import win32com.client as wincl
 import site
 import calculator
 import translator
